@@ -6,6 +6,7 @@
     - python -m venv ___
     - then activate
     - then back to parent repo
+<br>
 2. install all the things you need:
     - pip install -r requirements.txt
      
