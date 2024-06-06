@@ -2,7 +2,7 @@
 ### Developed by MD. Asraful Islam
 
 ##### before run the project
-1. make a virtual environment
+1. create a virtual environment
     - python -m venv ___
     - then activate
     - then back to parent repo
